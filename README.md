@@ -16,7 +16,7 @@ Ensure you have a modern web browser to run the CSV to JSON Converter. The tool 
 
 ### How to Use
 
-1. Open [this web page](https://mvster1.github.io/csv-to-json-converter/) containing the tool.
+1. Open the tool on [this web page](https://mvster1.github.io/csv-to-json-converter/) or clone this repository.
 2. Click on the "Choose File" button and select your CSV file.
 3. The tool will automatically parse the CSV file and display the resulting JSON output.
 4. To copy the JSON to your clipboard, click the **Copy JSON** button.
